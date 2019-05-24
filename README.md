@@ -1,4 +1,4 @@
-# andro-angular-password-fields
+# ng-password
 
 used to show password while user types then it hides like in android
 
